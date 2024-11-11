@@ -6,6 +6,7 @@ Todos los elementos vistos en clase fueron implementados con cada parametro brin
 # Rutas
 
 Se crea un archivo package.json para la creación de dependencias a través de Express
+
 ![image](https://github.com/user-attachments/assets/fe3b8fab-4846-4446-b65d-3f96aaf965d3)
 
 # Inicializacion en Express.js
