@@ -1,7 +1,11 @@
 
 # Despliegue de backend con express
 
-Todos los elementos vistos en clase fueron implementados con cada parametro brindado tanto del Dom como la programacion Asincrona. 
+Todos los elementos vistos en clase fueron implementados con cada parametro brindado sobre la creacion de rutas del Backend.
+
+#Link del despliegue en Vercel
+
+https://express-grupo2.vercel.app/ 
 
 # Rutas
 
